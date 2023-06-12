@@ -1,0 +1,24 @@
+projects page notes
+
+.projects-hero 
+
+projects section styles instead of skills section
+skills id #skills becomes #project
+
+skills-list class becomes projects-list class
+
+Switch out the #skills ID for the ID name you assigned to the <section> tag. Also, change the name of the .skills-list class for the one you chose for the containers in your “content-wrapper” div.
+
+#projects
+
+.project-rogue img
+
+.projects-unplug img
+
+.projects-game img  
+
+
+
+
+
+
